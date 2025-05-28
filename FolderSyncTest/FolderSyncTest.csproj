@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TestTask\FolderSync.csproj" />
+    <ProjectReference Include="..\FolderSync\FolderSync.csproj" />
   </ItemGroup>
 
   <ItemGroup>
